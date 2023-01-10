@@ -44,6 +44,12 @@ export default function Home() {
         </h1>
         <br />
 
+        <div
+         data-widget="m-layout-bid-overlay"
+         data-id="LISTING_ID"
+         data-network="NETWORK"
+        ></div>
+
         <div dangerouslySetInnerHTML={{ 
           __html: 
             `<div
