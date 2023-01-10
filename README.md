@@ -1,3 +1,19 @@
+That’s what whitelights.eth (@iamwhitelights) did for his latest piece titled “a quantum entanglement”. Using time as a unique on-chain input to the experiential nature of the piece(s), he desired a custom site to display and auction his work best suited for its dynamic nature. He dove into the widget documentation head first looking for what would make sense to achieve what he’d mocked up and got started with a simple Vue project. After embedding the widgets he got to work styling with custom CSS to achieve his trademark whitelights.eth aesthetic.
+
+Widgets used:
+
+m-connect
+
+m-listing-bid
+
+m-listing-description
+
+m-listing-attributes
+
+m-listing-links
+
+m-layout-bid-overlay
+
 # NFT Profile Page
 
 <img src="screenshot.png" width="300" />
