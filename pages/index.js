@@ -38,7 +38,9 @@ export default function Home() {
             Manifold
           </a>
           <span> </span>
-          x LTL
+          <a href="https://livethelife.tv">
+            x LTL
+          </a>
         </h1>
         <br />
 

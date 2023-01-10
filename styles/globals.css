@@ -6,6 +6,11 @@ body {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
+@font-face {
+  font-family: 'Epilogue-Bold';
+  src: url('/fonts/Epilogue-Bold.ttf') format('truetype');
+}
+
 a {
   color: inherit;
   text-decoration: none;
